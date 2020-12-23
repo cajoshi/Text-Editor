@@ -4,7 +4,7 @@ A simple command line text editor that can be used to edit, modify and save text
 
 ### On windows
 
-You will need a Linux environment withing windows because this text editor interacts with the terminal at a low level using the <termios.h> header (which is not available on windows).
+You will need a Linux environment within windows because this text editor interacts with the terminal at a low level using the <termios.h> header (which is not available on windows).
 
 Gcc and make should come pre installed on linux but you can install it using: sudo apt-get install gcc make
 

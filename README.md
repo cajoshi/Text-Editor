@@ -21,5 +21,12 @@ Run the text editor using: ./text-editor
 | CTRL + S   | Save   |
 | CTRL + Q   | Quit   |
 
+## Screenshots
+### Main Screen
+![alt text](https://github.com/cajoshi/Text-Editor/blob/main/images/Text%20editor%201.jpg "Screenshot of the editor when it is loaded")
+
+### Editing
+![alt text](https://github.com/cajoshi/Text-Editor/blob/main/images/Text%20editor%202.jpg "Screenshot of the editor with text in it")
+
 
 Writing a text editor would not have been possible without an elaborate [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) by [Pailey Quilts](https://github.com/paileyq) guiding me through each and every step. 
